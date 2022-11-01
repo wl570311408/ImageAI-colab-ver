@@ -1,4 +1,4 @@
-[English]((README.md)) | 繁體中文
+[English](README.md) | 繁體中文
 # ImageAI-colab-版
 [Google Colab](https://colab.research.google.com/)
 
