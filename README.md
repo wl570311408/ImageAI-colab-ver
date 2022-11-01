@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # ImageAI-colab-ver
 [Google Colab](https://colab.research.google.com/)
 
